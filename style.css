@@ -1,0 +1,10 @@
+body {
+    background-color: #c08060;
+}
+
+.card  {
+    width: 300;
+    height: 200;
+    background-color: red;
+    border-radius: 30px;
+}
